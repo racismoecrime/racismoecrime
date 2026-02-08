@@ -19,7 +19,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Node.js](https://img.shields.io/badge/NODE.JS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Vite](https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
+![IntelX](https://img.shields.io/badge/INTELX-004B87?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAARElEQVQ4y2NgGAWjYBSMAlpBcXExw38GfICRkZExA0mAiYmJD8Svy8jI2E6SAbS1tX0gyQC6urr+k2QArS1fMApGwSgYBaMAHwAAbpAQC99S7mYAAAAASUVORK5CYII=&logoColor=white)
 
 ---
 
