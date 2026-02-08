@@ -1,4 +1,4 @@
-# Oi, pode me chamar de 48fq <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXduc2ZueXduc2ZueXduc2ZueXduc2ZueXduc2ZueHImZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/3o7TKMGpxxcaNnU0b6/giphy.gif" width="30px">
+# Oi, pode me chamar de 48fq 
 
 ### 💻 Full Stack & Cyber Security Forense
 *"Si vis pacem, para bellum"*
@@ -6,7 +6,7 @@
 ---
 
 <div align="center">
-  <img align="right" width="300" src="ca246b188e0ea749fddcca86f6033edb.jfif">
+  <img align="right" width="300" src="![ca246b188e0ea749fddcca86f6033edb](https://github.com/user-attachments/assets/187b2b34-312f-4674-acef-44baf9881e6e)">
 </div>
 
 * 📕 **Specialist:** Desenvolvimento Web, UI/UX, Cloud Computing.
