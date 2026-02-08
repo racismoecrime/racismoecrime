@@ -1,7 +1,7 @@
-# Oi, pode me chamar de 48fq 
+# Olá, pode me chamar de Mikhael.
 
-### 💻 Full Stack & Cyber Security Forense
-*"Si vis pacem, para bellum"*
+### 💻 Full Stack Dev & Cyber Security Forense
+**"Si vis pacem, para bellum"**
 
 ---
 
@@ -9,9 +9,9 @@
   <img align="right" width="300" src="![ca246b188e0ea749fddcca86f6033edb](https://github.com/user-attachments/assets/187b2b34-312f-4674-acef-44baf9881e6e)">
 </div>
 
-* 📕 **Specialist:** Desenvolvimento Web, UI/UX, Cloud Computing.
-* 📓 **Researching:** Inteligência Artificial e Automação.
-* 🛡️ **Focus:** Performance e Escalabilidade.
+* 📕 **Specialist:** Advanced Security, Social Engineering, OSINT.
+* 📓 **Researching:**  Webscraping avançado e coleta de metadados.
+* 🛡️ **Focus:** Osint, Pentest & Humint
 
 ### Stack & Tools
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -19,6 +19,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 ---
 
