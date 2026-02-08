@@ -1,4 +1,4 @@
-# Olá, pode me chamar de Mikhael. <img src="https://github.com/user-attachments/assets/187b2b34-312f-4674-acef-44baf9881e6e" width="35">
+# Olá, pode me chamar de Mikhael. <img src="[https://github.com/user-attachments/assets/afbd9280-dfbc-491b-8c93-01e4af47ea84" width="35">
 
 <img align="right" width="300" src="https://github.com/user-attachments/assets/afbd9280-dfbc-491b-8c93-01e4af47ea84">
 
