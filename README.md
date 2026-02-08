@@ -3,7 +3,7 @@
 <img align="right" width="300" src="https://github.com/user-attachments/assets/187b2b34-312f-4674-acef-44baf9881e6e">
 
 ### » Developer & Digital Investigator.
-**"Si vis pacem, para bellum"**
+###"Si vis pacem, para bellum"**
 
 * ### 📕 **SPECIALIST:** Advanced Security, Social Engineering, OSINT.
 * ### 📓 **RESEARCHING:** Webscraping avançado e coleta de metadados.
