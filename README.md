@@ -5,9 +5,9 @@
 ### 💻 Developer & Digital Investigator.
 **"Si vis pacem, para bellum"**
 
-* ##* 📕 **SPECIALIST:** Advanced Security, Social Engineering, OSINT.
-* ##* 📓 **RESEARCHING:** Webscraping avançado e coleta de metadados.
-* ##* 🛡️ **FOCUS:** Osint, Digital Investigation, Pentest & Humint
+* ### 📕 **SPECIALIST:** Advanced Security, Social Engineering, OSINT.
+* ### 📓 **RESEARCHING:** Webscraping avançado e coleta de metadados.
+* ### 🛡️ **FOCUS:** Osint, Digital Investigation, Pentest & Humint
 
 <br>
 
@@ -24,3 +24,4 @@
 
 ## 🌐 Contato
 * ✉️ **E-mail:** belfegorw@proton.me
+* 📍 **Location:** Rio de Janeiro, Brasil
