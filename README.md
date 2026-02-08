@@ -1,6 +1,7 @@
 # Olá, pode me chamar de Mikhael <img src="https://github.com/user-attachments/assets/187b2b34-312f-4674-acef-44baf9881e6e" width="35">
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/stevenliuyi/brazil-flag/master/brazil-flag.png">
+<img align="right" width="300" src="![Gadsden-Flag](https://github.com/user-attachments/assets/e7346589-c6b3-4de5-8fe1-713e536335dc)
+>
 
 ### » *Developer & Digital Investigator.*
 ㅤㅤㅤ *"𝐒𝐢 𝐯𝐢𝐬 𝐩𝐚𝐜𝐞𝐦, 𝐩𝐚𝐫𝐚 𝐛𝐞𝐥𝐥𝐮𝐦"*
