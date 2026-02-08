@@ -1,17 +1,15 @@
 # Olá, pode me chamar de Mikhael.
 
+<img align="right" width="300" src="https://github.com/user-attachments/assets/187b2b34-312f-4674-acef-44baf9881e6e">
+
 ### 💻 Full Stack Dev & Cyber Security Forense
 **"Si vis pacem, para bellum"**
 
----
-
-<div align="center">
-  <img align="right" width="300" src="![ca246b188e0ea749fddcca86f6033edb](https://github.com/user-attachments/assets/187b2b34-312f-4674-acef-44baf9881e6e)">
-</div>
-
 * 📕 **Specialist:** Advanced Security, Social Engineering, OSINT.
-* 📓 **Researching:**  Webscraping avançado e coleta de metadados.
+* 📓 **Researching:** Webscraping avançado e coleta de metadados.
 * 🛡️ **Focus:** Osint, Pentest & Humint
+
+<br>
 
 ### Stack & Tools
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -24,4 +22,4 @@
 ---
 
 ## 🌐 Contato
-* ✉️ **E-mail:** [belfegorw@proton.me]
+* ✉️ **E-mail:** belfegorw@proton.me
