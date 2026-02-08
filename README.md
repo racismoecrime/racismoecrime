@@ -8,7 +8,7 @@
 * ### 📕 **Specialist:** Advanced Security, Social Engineering, OSINT.
 * ### 📓 **Researching:** Webscraping avançado e coleta de metadados.
 * ### 🛡️ **Focus:** Osint, Digital Investigation, Pentest & Humint
-ㅤㅤㅤㅤ*"Dont Tread on Me"*
+ㅤㅤㅤㅤ"Dont Tread on Me"
 <br>
 
 ### Stack & Tools
