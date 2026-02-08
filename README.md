@@ -23,6 +23,6 @@
 ---
 
 ## 🌐 Contato
-* ✉️ **E-mail:** belfegorw@proton.me
+* ✉️ **Secure Mail:** belfegorw@proton.me
 * 📍 **Location:** Rio de Janeiro, Brasil
 
