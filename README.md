@@ -1,6 +1,6 @@
 # Olá, pode me chamar de Mikhael <img src="https://github.com/user-attachments/assets/187b2b34-312f-4674-acef-44baf9881e6e" width="35">
 
-<img align="right" width="300" src="https://github.com/user-attachments/assets/187b2b34-312f-4674-acef-44baf9881e6e">
+<img align="right" width="300" src="[https://github.com/user-attachments/assets/187b2b34-312f-4674-acef-44baf9881e6e](https://github.com/user-attachments/assets/afbd9280-dfbc-491b-8c93-01e4af47ea84)">
 
 ### » *Developer & Digital Investigator.*
 ㅤㅤㅤ *"𝐒𝐢 𝐯𝐢𝐬 𝐩𝐚𝐜𝐞𝐦, 𝐩𝐚𝐫𝐚 𝐛𝐞𝐥𝐥𝐮𝐦"*
@@ -25,3 +25,4 @@
 ## 🌐 Contato
 * ✉️ **E-mail:** belfegorw@proton.me
 * 📍 **Location:** Rio de Janeiro, Brasil
+
