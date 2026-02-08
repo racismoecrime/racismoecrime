@@ -1,16 +1,26 @@
-## Hi there 👋
+# Oi, pode me chamar de 48fq <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXduc2ZueXduc2ZueXduc2ZueXduc2ZueXduc2ZueHImZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/3o7TKMGpxxcaNnU0b6/giphy.gif" width="30px">
 
-<!--
-**racismoecrime/racismoecrime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Full Stack & Cyber Security Forense
+*"Si vis pacem, para bellum"*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img align="right" width="300" src="ca246b188e0ea749fddcca86f6033edb.jfif">
+</div>
+
+* 📕 **Specialist:** Desenvolvimento Web, UI/UX, Cloud Computing.
+* 📓 **Researching:** Inteligência Artificial e Automação.
+* 🛡️ **Focus:** Performance e Escalabilidade.
+
+### Stack & Tools
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Nodejs](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+---
+
+## 🌐 Contato
+* ✉️ **E-mail:** [belfegorw@proton.me]
