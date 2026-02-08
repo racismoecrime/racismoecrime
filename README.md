@@ -5,9 +5,9 @@
 ### 💻 Developer & Digital Investigator.
 **"Si vis pacem, para bellum"**
 
-* 📕 **Specialist:** Advanced Security, Social Engineering, OSINT.
-* 📓 **Researching:** Webscraping avançado e coleta de metadados.
-* 🛡️ **Focus:** Osint, Pentest & Humint
+* ### 📕 **SPECIALIST:** Advanced Security, Social Engineering, OSINT.
+* ### 📓 **RESEARCHING:** Webscraping avançado e coleta de metadados.
+* ### 🛡️ **FOCUS:** Osint, Digital Investigation, Pentest & Humint
 
 <br>
 
