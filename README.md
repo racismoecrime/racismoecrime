@@ -3,7 +3,7 @@
 <img align="right" width="300" src="https://github.com/user-attachments/assets/afbd9280-dfbc-491b-8c93-01e4af47ea84">
 
 ### » *Digital Investigator.*
-ㅤㅤㅤ *"𝖛𝖊𝖓𝖎 𝖛𝖎𝖉𝖎 𝖛𝖎𝖈𝖎"*
+ㅤㅤㅤ *"Veni, vidi, vici"*
 
 * ### 📕 **Specialist:** Advanced Security, Social Engineering, OSINT.
 * ### 📓 **Researching:** Webscraping avançado e coleta de metadados.
